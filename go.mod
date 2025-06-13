@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-sql-driver-mysql
+module github.com/jakedunn/xk6-sql-driver-mysql
 
 go 1.22
 
