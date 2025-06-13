@@ -89,3 +89,4 @@ require (
 	gopkg.in/guregu/null.v3 v3.5.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+replace github.com/grafana/xk6-sql-driver-mysql => github.com/jakeudnn/xk6-sql-driver-mysql latest
